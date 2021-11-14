@@ -1,0 +1,2 @@
+# google-license-pass
+nope
